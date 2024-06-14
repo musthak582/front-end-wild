@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for Highlight.js */
+/* pre {
+  @apply bg-white rounded-lg m-0 p-0;
+} */
+/*#1E1E1E*/
